@@ -57,7 +57,7 @@ export function Testimonials() {
 
   return (
     <section className="py-20">
-      <div className="mx-auto max-w-6xl px-4 sm:px-6">
+      <div className="mx-auto max-w-7xl px-4 sm:px-6">
         <div className="flex flex-wrap items-center justify-between gap-6">
           <div>
             <h2 className="font-heading text-4xl text-foreground sm:text-[40px]">
